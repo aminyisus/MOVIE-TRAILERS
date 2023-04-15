@@ -1,0 +1,27 @@
+{
+  "name": "movie-manager-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Amín Báez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^5.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminyisus/Movies-APP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aminyisus/Movies-APP/issues"
+  },
+  "homepage": "https://github.com/aminyisus/Movies-APP#readme",
+  "description": ""
+}
